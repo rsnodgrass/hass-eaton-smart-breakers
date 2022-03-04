@@ -3,7 +3,7 @@
 ![beta_badge](https://img.shields.io/badge/maturity-Beta-yellow.png)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-Provides sensors and control for Eaton's Energy Management Circuit Breakers (EMCB), aka WiFi Smart Breakers.
+Provides sensors and control for Eaton's [Energy Management Circuit Breakers (EMCB)](https://eaton.com/emcb), aka WiFi Smart Breakers.
 Fully WiFi enabled circuit breakers for **existing** Eaton electrical panels.
 
 Pending support for:
