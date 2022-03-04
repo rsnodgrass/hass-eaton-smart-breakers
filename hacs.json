@@ -1,0 +1,5 @@
+{
+  "name": "Eaton Energy Management Circuit Breakers (EMCB)",
+  "domains": [ "sensor" ],
+  "render_readme": true
+}
