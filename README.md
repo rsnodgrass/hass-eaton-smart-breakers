@@ -22,3 +22,4 @@ If you have any proposed changes or bug fixes, please code them and create pull 
 ## See Also
 
 * [Eaton Smart Breakers / Energy Management Circuit Breakers (EMCB)](https://eaton.com/emcb)
+* [Eaton EMCB Models](https://www.eaton.com/us/en-us/catalog/electrical-circuit-protection/energy-management-circuit-breaker.models.html)
